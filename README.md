@@ -53,6 +53,6 @@ The design uses lightweight plastic materials for the main body, lid, covers, an
 
 The goal of this project is to create a practical CAD concept for an automated medication dispenser that improves dose organization, user accessibility, and treatment adherence.
 
-## Author
+## Authors
 
 Ashot Nahapetyan, Lia Martirosyan
