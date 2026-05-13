@@ -55,4 +55,7 @@ The goal of this project is to create a practical CAD concept for an automated m
 
 ## Authors
 
-Ashot Nahapetyan, Lia Martirosyan
+Ashot Nahapetyan
+Lia Martirosyan
+
+American University of Armenia
